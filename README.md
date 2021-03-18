@@ -1,3 +1,3 @@
 # knowledge-base
 
-HackMD Team: https://hackmd.io/team/cownetwork (invitation required)
+HackMD Team: https://hackmd.io/team/cownetwork (Einladung benötigt)
