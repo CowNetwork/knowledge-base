@@ -1,4 +1,4 @@
 # knowledge-base
 
-* [HackMD Team](https://hackmd.io/team/cownetwork) (Einladung benötigt)
-* [Google Drive](https://drive.google.com/drive/folders/1EvcehuLfdVsgcc2vmuRqjwdF1d_3LpuW) (Einladung benötigt)
+* [HackMD Team](https://hackmd.io/team/cownetwork) (Invitation required)
+* [Google Drive Folder](https://drive.google.com/drive/folders/1EvcehuLfdVsgcc2vmuRqjwdF1d_3LpuW) (Invitation required)
