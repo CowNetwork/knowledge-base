@@ -1,0 +1,3 @@
+# Versioning
+
+For Git tags we use `yearAfterRelease.calenderWeek.weeklyReleaseNr` (see: [CalVer](https://calver.org/), which is similar to this), which means that for the very first release in the first week of the year, we would have something like: `0.1.1`. We decided on this pattern, because it allows us to make releases in Github without the need to know what has changed in the repository itself. Also, for projects like [Mooapis](https://github.com/CowNetwork/mooapis) there would be no good way to decide on a version.
